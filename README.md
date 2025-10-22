@@ -144,4 +144,3 @@ Use the sample images in `sample-data/` directory for testing.
 ## License
 
 MIT
-# GlobalAI
